@@ -1,9 +1,14 @@
 # monte-carlo_ncomms
 Contains the code for the Monte Carlo simulations for the paper *Accurate quantification of photon recycling in perovskite films reveals true internal luminescence quantum efficiency* submitted to Nature Communications.
 
-It generates 'externally-observed' photoluminescence spectra, with the internal PL and absorption coefficient spectra (obtained from confocal PL microsopy) as input (included in 'Example-data.mat'). More information can be found in the Supplementary Note 4 and Supplementary Fig. 19.
+It generates 'externally-observed' photoluminescence spectra, with the internal PL and absorption coefficient spectra (obtained from confocal PL microsopy) as input. More information can be found in the Supplementary Note 4 and Supplementary Fig. 19.
 
-The simulation can be run and the parameters be changed via the file 'run_MonteCarlo.m'.
-The code itself is available in 'MonteCarlo_code.m'.
+--
+The file 'MonteCarlo_code.m' contains the code itself.
+--
+The file 'Example-data.mat' contains the internal PL and absorption coefficient spectra used as input for the simulations.
+--
+The file 'run_MonteCarlo.m' allows changing the input parameters, runs the simulation, plots the data and saves the results as txt-file.
+
 
 
