@@ -1,5 +1,5 @@
 # monte-carlo_ncomms
-Contains the code for the Monte Carlo simulations for the paper *Accurate quantification of photon recycling in perovskite films reveals true internal luminescence quantum efficiency* submitted to Nature Communications.
+This repisitory contains the code for the Monte Carlo simulations for the paper *Accurate quantification of photon recycling in perovskite films reveals true internal luminescence quantum efficiency* submitted to Nature Communications.
 
 It generates 'externally-observed' photoluminescence spectra, with the internal PL and absorption coefficient spectra (obtained from confocal PL microsopy) as input. More information can be found in the Supplementary Note 4 and Supplementary Fig. 19.
 
