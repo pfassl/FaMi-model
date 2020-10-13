@@ -1,5 +1,5 @@
 n2=3; %number oof loops over the film thicknness (d)
-n3=8; % number of loops over the 'direct escape probability without reabsorption' (ped)
+n3=8; % number of loops over the 'escape cone probability' (ped)
 n4=13; %number of loops over the inverse scattering length (isl)
 iqe=0.8; %internal luminescence quantum efficiency
 n=3E6; % number of photons used in the simulation
