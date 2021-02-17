@@ -4,9 +4,9 @@ Will be available soon..!
 
 # Monte Carlo simulations
 This repisitory contains the code for the Monte Carlo simulations for the paper *Revealing the internal luminescence quantum efficiency of perovskite films via
-accurate quantification of photon recycling*.
+accurate quantification of photon recycling* in the journal Matter: https://authors.elsevier.com/a/1cbg49CyxcxO47.
 
-It generates 'externally-observed' photoluminescence spectra with the internal PL and absorption coefficient spectra (obtained from confocal PL microsopy) as input. More information can be found in the Supplementary Note 4 and Supplementary Fig. 19 of the submitted paper.
+It generates 'externally-observed' photoluminescence spectra with the internal PL and absorption coefficient spectra (obtained from confocal PL microsopy) as input. More information can be found in the Supplemental Information Note S6 and Fig. S19 of the paper.
 
 The files require the software Matlab to be executed.
 
