@@ -1,6 +1,6 @@
 # Matlab app for fitting with the FaMi-model
 
-Will be available soon..!
+Dear community, the Matlap app will be available soon, there are still a few things to be fixed/improved..! :)
 
 # Monte Carlo simulations
 This repisitory contains the code for the Monte Carlo simulations for the paper *Revealing the internal luminescence quantum efficiency of perovskite films via
